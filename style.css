@@ -62,7 +62,7 @@ a:hover {
   border: 1px solid lightgrey;
   text-align: center;
   box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
-  margin: 20px 0;      /* Set automatic margins on right/left */
+  margin: 25px 0;      /* Set automatic margins on right/left */
 }
 
 .container {
@@ -86,9 +86,9 @@ a:hover {
 }
 
 .btn-gray {
-  background-color: lightgrey;
+  background-color: #dee2ff;
   color: ##f5efef;
-  font-size: 13px;
+  font-size: 14px;
   padding: 8px;
   border-radius: 4px;
   box-shadow: 0px 4px 4px rgba(0,0,0,0.1);
