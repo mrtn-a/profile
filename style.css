@@ -73,6 +73,8 @@ a:hover {
 .img-circle {
   border-radius: 50%;
   height: 180px;
+  opacity: 0.85;
+
 }
 
 .list-inline {
@@ -86,8 +88,8 @@ a:hover {
 }
 
 .btn-gray {
-  background-color: #dee2ff;
-  color: ##f5efef;
+  background-color: #56556e;
+  color: #f5efef;
   font-size: 14px;
   padding: 8px;
   border-radius: 4px;
@@ -95,7 +97,7 @@ a:hover {
 }
 
 .btn-gray:hover {
-  color: #f5efef;
-  font-weight: 300;
+  background-color: #b5838d;
+  color: white;
 }
 
