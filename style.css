@@ -22,18 +22,17 @@
   }
 
   .container .img-circle {
-  height: 90px;
+    height: 90px;
   }
 
   .container .btn-gray {
     font-size: 7px;
   }
-
 }
 
 body {
   background-color: #dddddd;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #56556e;
   font-size: 17px;
   line-height: 1.5;
@@ -47,6 +46,10 @@ h1 {
   font-weight: 300;
 }
 
+h1,
+h3 {
+  font-family: Major Mono Display;
+}
 a {
   color: #56556e;
   text-decoration: none;
@@ -61,12 +64,12 @@ a:hover {
   padding: 30px;
   border: 1px solid lightgrey;
   text-align: center;
-  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
-  margin: 25px 0;      /* Set automatic margins on right/left */
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+  margin: 25px 0; /* Set automatic margins on right/left */
 }
 
 .container {
-  width: 500px;   /* This sets the width */
+  width: 500px; /* This sets the width */
   margin: 0 auto; /* This automatically sets left/right margins */
 }
 
@@ -74,7 +77,6 @@ a:hover {
   border-radius: 50%;
   height: 180px;
   opacity: 0.85;
-
 }
 
 .list-inline {
@@ -93,11 +95,10 @@ a:hover {
   font-size: 14px;
   padding: 8px;
   border-radius: 4px;
-  box-shadow: 0px 4px 4px rgba(0,0,0,0.1);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
 }
 
 .btn-gray:hover {
   background-color: #b5838d;
   color: white;
 }
-
